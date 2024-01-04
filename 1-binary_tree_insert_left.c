@@ -1,6 +1,6 @@
-#include "binary_trees.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include "binary_trees.h"
 
 /**
  * binary_tree_insert_left - must return a pointer to the created node
