@@ -3,12 +3,12 @@
 #include <stdlib.h>
 
 /**
- *
  * binary_tree_insert_left - must return a pointer to the created node
- * @parent - parent node
- * @value - value to store in the node
+ * @parent: parent node
+ * @value: value to store in the node
  *
- * Return:  pointer to the created node, or NULL on failure or if parent is NULL
+ * Return:  pointer to the created node
+ * or NULL on failure or if parent is NULL
  */
 
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
